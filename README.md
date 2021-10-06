@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 Repositório Inicial
